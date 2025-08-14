@@ -75,3 +75,4 @@ if uploaded_file:
     col2.image(pruned * 255, caption="Pruned Skeleton", use_column_width=True)
 
     st.image(components, caption="Connected Components", use_column_width=True)
+
